@@ -5,4 +5,4 @@
 
 在普通显示器上放大后显示如下图：
 ![image](https://github.com/Brianye99/autostereoscopic-demo/blob/master/image/normal.png)
-通过控制像素的精确偏移在专用显示器上实现了自由立体显示效果演示
+通过控制视差图像像素的精确偏移在专用显示器上实现了自由立体显示效果演示
